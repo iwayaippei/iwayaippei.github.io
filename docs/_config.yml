@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ソフトウェア工学2026
+title: ""
 email: 
-description: ソフトウェア工学講義まとめ
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iwayaippei.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
