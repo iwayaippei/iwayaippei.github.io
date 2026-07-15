@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ソフトウェア工学2026"
+title: ""
 permalink: /softwareEng2026
 ---
 
