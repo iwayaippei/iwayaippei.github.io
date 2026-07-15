@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ソフトウェア工学2026
+permalink: /softwareEng2026
 ---
 
 # ソフトウェア工学 第1回～第6回まとめ
